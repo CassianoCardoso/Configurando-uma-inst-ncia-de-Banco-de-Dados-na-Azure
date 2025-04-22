@@ -80,7 +80,3 @@ Seu banco de dados SQL está configurado na Azure! Agora você pode:
 - Conectar aplicações
 - Criar tabelas e consultas
 - Gerenciar permissões e usuários
-
----
-
-Se você quiser um PDF ou documento com layout mais visual, é só pedir!
